@@ -8,6 +8,16 @@ A simple and useful Visual Studio Code extension that adds custom buttons to you
 - Adds a "Count Lines" button to count lines in the current file
 - Context menu integration for quick access to features
 
+## Demo
+
+### Button Interface
+![Extension Demo 1](demo1.png)
+*Demo showing the extension's buttons in the editor interface*
+
+### Context Menu
+![Extension Demo 2](demo2.png)
+*Demo showing the extension's features in the context menu*
+
 ## Requirements
 
 - Visual Studio Code version 1.100.0 or higher
